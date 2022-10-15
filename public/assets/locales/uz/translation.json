@@ -1,0 +1,32 @@
+{
+  "header": {
+    "LogoTitle": "Yangiliklar",
+    "HOME": "UY",
+    "item2": {
+      "COMPANY": "KOMPANIYA",
+      "QUALITY POLICY": "QUALITY POLICY",
+      "SOCIAL ACTIVITIES": "SOCIAL ACTIVITIES",
+      "NEWS": "NEWS"
+    },
+    "item3": {
+      "PRODUCTS": "MAHSULOTLAR",
+      "NITROGEN GANARATORES": "NITROGEN GANARATORES",
+      "PROJECT": "PROJECT",
+      "TEST BENCHES": "TEST BENCHES",
+      "DRY GAS SEAL RACK": "DRY GAS SEAL RACK",
+      "TRAIN BRAKE TEST SYSTEMS": "TRAIN BRAKE TEST SYSTEMS",
+      "GREEN ENERGY AUTOMATICS": "GREEN ENERGY AUTOMATICS",
+      "AXUILIARY UNITS": "AXUILIARY UNITS"
+    },
+    "item4": {
+      "SERVICES": "XIZMATLAR",
+      "DESIGNING": "DESIGNING",
+      "CALCULATIONS": "CALCULATIONS",
+      "ONE-SITE INSTALLATIO": "ONE-SITE INSTALLATION"
+    },
+    "EUROPEN FUNDS": "EVROPA JAMG'ARMALARI",
+    "CAREERS": "KARIYERA",
+    "CONTACT": "ALOQA",
+    "Language": "Tilni o'zgartirish"
+  }
+}

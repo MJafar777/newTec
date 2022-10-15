@@ -1,0 +1,80 @@
+{
+  "header": {
+    "LogoTitle": "NEWS",
+    "HOME": "HOME",
+    "item2": {
+      "COMPANY": "COMPANY",
+      "QUALITY POLICY": "QUALITY POLICY",
+      "SOCIAL ACTIVITIES": "SOCIAL ACTIVITIES",
+      "SERTIFICATE": "SERTIFICATE",
+      "NEWS": "NEWS"
+    },
+    "item3": {
+      "PRODUCTS": "PRODUCTS",
+      "NITROGEN GANARATORES": "NITROGEN GANARATORES",
+      "PROJECT": "PROJECT",
+      "TEST BENCHES": "TEST BENCHES",
+      "DRY GAS SEAL RACK": "DRY GAS SEAL RACK",
+      "TRAIN BRAKE TEST SYSTEMS": "TRAIN BRAKE TEST SYSTEMS",
+      "GREEN ENERGY AUTOMATICS": "GREEN ENERGY AUTOMATICS",
+      "AXUILIARY UNITS": "AXUILIARY UNITS"
+    },
+    "item4": {
+      "SERVICES": "SERVICES",
+      "DESIGNING": "DESIGNING",
+      "CALCULATIONS": "CALCULATIONS",
+      "PROJECTS": "ONE-SITE INSTALLATION",
+      "SERVICE": "SERVICE"
+    },
+    "EUROPEN FUNDS": "EUROPEN FUNDS",
+    "CAREERS": "CAREERS",
+    "CONTACT": "CONTACT",
+    "Language": "Language"
+  },
+  "home": {
+    "title": {
+      "title": "THE ENGINEERING COMPANY",
+      "about": "INNOVATIVE SOLUTIONS FOR HUMAN AND ENVIRONMENTAL APPLICATION",
+      "more": "more about the company"
+    },
+    "bottom": {
+      "news": "News",
+      "description1": "Forbes Diamonds 2022",
+      "description2": "21-24.09.2021 – HPE 8 Sp z o.o. at the TRAKO 2021 International Railway Fair",
+      "description3": "The Pomeranian Special Economic Zone has granted support to HPE 8 Sp. z o.o. within the Polish Investment Zone."
+    }
+  },
+  "company": {
+    "quality-policy": {
+      "title": "QUALITY POLICY, HISTORY",
+      "description": " AN ENGINEERING COMPANY PROVIDING SOLUTIONS FOR ITS CLIENTS IN THE MECHANICAL, ELECTRICAL AND AUTOMATION INDUSTRY.",
+      "year": [
+        {
+          "childyear": "2021  IN APRIL 2021, HPE 8 SP. Z O.O. HAS  IMPLEMENTED AND MAINTAINS A QUALITY REQUIREMENTS IN WELDING SYSTEM IN COMPLIANCE WITH PN-EN ISO 3834-2:2007."
+        },
+        {
+          "childyear": "2021  IN APRIL 2021, HPE 8 SP. Z O.O. HAS  IMPLEMENTED AND MAINTAINS A QUALITY REQUIREMENTS IN WELDING SYSTEM IN COMPLIANCE WITH PN-EN ISO 3834-2:2007."
+        },
+        {
+          "childyear": "2021  IN APRIL 2021, HPE 8 SP. Z O.O. HAS  IMPLEMENTED AND MAINTAINS A QUALITY REQUIREMENTS IN WELDING SYSTEM IN COMPLIANCE WITH PN-EN ISO 3834-2:2007."
+        },
+        {
+          "childyear": "2021  IN APRIL 2021, HPE 8 SP. Z O.O. HAS  IMPLEMENTED AND MAINTAINS A QUALITY REQUIREMENTS IN WELDING SYSTEM IN COMPLIANCE WITH PN-EN ISO 3834-2:2007."
+        },
+        {
+          "childyear": "2021  IN APRIL 2021, HPE 8 SP. Z O.O. HAS  IMPLEMENTED AND MAINTAINS A QUALITY REQUIREMENTS IN WELDING SYSTEM IN COMPLIANCE WITH PN-EN ISO 3834-2:2007."
+        },
+        {
+          "childyear": "2021  IN APRIL 2021, HPE 8 SP. Z O.O. HAS  IMPLEMENTED AND MAINTAINS A QUALITY REQUIREMENTS IN WELDING SYSTEM IN COMPLIANCE WITH PN-EN ISO 3834-2:2007."
+        }
+      ]
+    }
+  },
+  "products": {
+    "products": "PRODUCTS",
+    "nitrogen-generators": "NITROGEN GENERATORS"
+  },
+  "service": {
+    "service": "SERVICE"
+  }
+}

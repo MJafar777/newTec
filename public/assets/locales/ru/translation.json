@@ -1,0 +1,32 @@
+{
+  "header": {
+    "LogoTitle": "НОВОСТИ",
+    "HOME": "ДОМ",
+    "item2": {
+      "COMPANY": "КОМПАНИЯ",
+      "QUALITY POLICY": "ПОЛИТИКА КАЧЕСТВА",
+      "SOCIAL ACTIVITIES": "КУЛЬТУРНО-ПРОСВЕТИТЕЛЬНЫЕ МЕРОПРИЯТИЯ",
+      "NEWS": "НОВОСТИ"
+    },
+    "item3": {
+      "PRODUCTS": "ТОВАРЫ",
+      "NITROGEN GANARATORES": "АЗОТНЫЕ ГАНАРАТОРЫ",
+      "PROJECT": "ПРОЕКТ",
+      "TEST BENCHES": "ИСПЫТАТЕЛЬНЫЕ СТЕНДЫ",
+      "DRY GAS SEAL RACK": "СТОЙКА ДЛЯ УПЛОТНЕНИЯ СУХОГО ГАЗА",
+      "TRAIN BRAKE TEST SYSTEMS": "СИСТЕМЫ ИСПЫТАНИЯ ТОРМОЗОВ ПОЕЗДА",
+      "GREEN ENERGY AUTOMATICS": "ЗЕЛЕНАЯ ЭНЕРГЕТИКА АВТОМАТИКА",
+      "AXUILIARY UNITS": "ВСПОМОГАТЕЛЬНЫЕ УЗЛЫ"
+    },
+    "item4": {
+      "SERVICES": "СЕРВИСЫ",
+      "DESIGNING": "ПРОЕКТИРОВАНИЕ",
+      "CALCULATIONS": "РАСЧЕТЫ",
+      "ONE-SITE INSTALLATIO": "УСТАНОВКА НА ОДНОМ САЙТЕ"
+    },
+    "EUROPEN FUNDS": "ЕВРОПЕЙСКИЕ ФОНДЫ",
+    "CAREERS": "КАРЬЕРА",
+    "CONTACT": "КОНТАКТ",
+    "Language": "Язык"
+  }
+}
